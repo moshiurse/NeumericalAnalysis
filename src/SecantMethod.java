@@ -24,6 +24,7 @@ public class SecantMethod {
 
         }
 
+        
     }
 
     public double functionOfX(double x){
