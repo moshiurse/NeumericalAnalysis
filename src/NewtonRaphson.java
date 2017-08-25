@@ -1,3 +1,10 @@
+/**
+ * @Author Moshiur Rahman
+ * @Subject Numerical Analysis
+ * @Topic Newton Raphson Method
+ * @Date 08-05-2017
+ */
+
 public class NewtonRaphson{
 	
 	// our f(x) = x^3-0.165x^2+3.990*10^-4=0

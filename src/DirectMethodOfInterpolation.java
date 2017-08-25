@@ -2,6 +2,7 @@ import java.util.Arrays;
 
 /**
  * @Author Moshiur Rahman
+ * @Subject Numerical Analysis
  * @Topic Direct Method Of Interpolation
  * @Date 08-05-2017
  */

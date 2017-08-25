@@ -1,4 +1,9 @@
-
+/**
+ * @Author Moshiur Rahman
+ * @Subject Numerical Analysis
+ * @Topic palse position method
+ * @Date 08-05-2017
+ */
 public class FalsePosition {
 
 	// f(x) = x^2-x-2;

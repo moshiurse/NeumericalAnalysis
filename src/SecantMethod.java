@@ -1,4 +1,10 @@
 
+/**
+ * @Author Moshiur Rahman
+ * @Subject Numerical Analysis
+ * @Topic Secant Method
+ * @Date 08-05-2017
+ */
 public class SecantMethod {
     // x^4-x-10
 
